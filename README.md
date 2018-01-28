@@ -1,8 +1,8 @@
 ## Taxi Cab Spark Analysis
 
-<img src='presentation_imgs/Slide01.jpeg' />
+<img src='presentation_imgs/title-lg.jpeg' />
 
-<img src='presentation_imgs/Slide05.jpeg' />
+<img src='presentation_imgs/pipeline-lg.jpeg' />
 
 This repository is the home of the analysis scripts used for analyzing 50M+ NYC taxi trips from 2017. There are two files. The first is for importing data into mongo
 
