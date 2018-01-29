@@ -4,6 +4,7 @@ sudo apt-get upgrade
 
 # download anaconda
 sudo wget https://repo.continuum.io/archive/Anaconda2-5.0.1-Linux-x86_64.sh
+bash Anaconda2-5.0.1-Linux-x86_64.sh
 . ~/.bashrc
 conda install python=2.7
 
